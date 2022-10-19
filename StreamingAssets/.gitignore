@@ -1,0 +1,4 @@
+*.bank
+
+# Los meta hay que dejarlos...
+# *.bank.meta
